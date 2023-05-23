@@ -4,17 +4,17 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack web chat applicati
 
 ## Installation
 
+ Run `yarn install` to install the required dependencies.
+ 
 ### Server Setup
 
 1. Navigate to the `server` folder.
-2. Run `yarn install` to install the required dependencies.
-3. Start the server by running `nodemon index.js`.
+2. Start the server by running `nodemon index.js`.
 
 ### Client Setup
 
 1. Navigate to the `client` folder.
-2. Run `yarn install` to install the required dependencies.
-3. Start the client development server by running `yarn dev`.
+2. Start the client development server by running `yarn dev`.
 
 Note: If `emoji-mart` returns an error, please execute the following command:
 
